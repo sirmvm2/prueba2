@@ -1,6 +1,10 @@
 Hola!
 
+<<<<<<< HEAD
 
 
 
 Edición desde mi computador!
+=======
+edición desde github
+>>>>>>> nuevaRamaFetch
