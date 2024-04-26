@@ -17,9 +17,8 @@ Editado desde mi pc nuevamente4
 Editado desde github2
 
 editado desde github3
-<<<<<<< HEAD
-=======
+
 editado desde github4
 editado desde github5
-editado desde github6
->>>>>>> 20853635aa7c59d246206f1445f41a97756efede
+
+
